@@ -1,1 +1,2 @@
 # SEC-Java
+This repository contains a wide collection of Java programs covering fundamental to intermediate concepts. It includes examples from basic syntax, operators, loops, conditional statements, arrays, methods, and strings, all the way up to object-oriented programming topics such as inheritance, polymorphism, constructors, and method overriding.
